@@ -1,7 +1,7 @@
 :sparkles: Hi! My name is ElementEclipse
 =====================================================================================================================================
 
-...
+Game Developer
 ----------------------------------------------
 
 I'm all about software development and building PCs
