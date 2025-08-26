@@ -8,7 +8,6 @@ I'm all about software development and building PCs
 
 * 🌎  I'm based in the United States
 * ✉️  You can contact me at [elementeclipsenightcore@gmail.com](mailto:elementeclipsenightcore@gmail.com)
-* 🚀  I'm currently working on [my profile webpage](http://pittsoccer.github.io/pittsoccer/)
 * 🧠  I'm learning more about C++ & IT Infrastruture
 
 <!-- Profile Visits -->
